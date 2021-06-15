@@ -2,13 +2,13 @@
 
 <p align="left"> <a href="https://twitter.com/nagar_apurva" target="blank"><img src="https://img.shields.io/twitter/follow/nagar_apurva?logo=twitter&style=for-the-badge" alt="nagar_apurva" /></a> </p>
 
-- 🔭 I’m currently contributing to [CoronaSafe Network](github.com/coronasafe/)
+- 🔭 I’m currently contributing to [CoronaSafe Network](https://github.com/coronasafe/)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **apurvanagar@gmail.com**
 
-- 📄 Know about my experiences [apurva-nagar.github.io/resume](apurva-nagar.github.io/resume)
+- 📄 Know about my experiences [Resume](https://apurva-nagar.github.io/media/Resume.pdf)
 
 <hr>
 <br/>
