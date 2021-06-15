@@ -15,7 +15,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Apurva-Nagar&show_icons=true&locale=en&theme=midnight-purple&count_private=true   " alt="apurva-nagar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-Nagar&theme=midnight-purple" alt="apurva-nagar" /></p>
 <hr>
-<br/>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurva-nagar&show_icons=true&locale=en&layout=compact&hide=html&theme=midnight-purple" alt="apurva-nagar" /></p>
