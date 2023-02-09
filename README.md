@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/nagar_apurva" target="blank"><img src="https://img.shields.io/twitter/follow/nagar_apurva?logo=twitter&style=for-the-badge" alt="nagar_apurva" /></a> </p>
 
-- 🔭 I’m currently contributing to [CoronaSafe Network](https://github.com/coronasafe/)
+- 🔭 I’m currently contributing to [Branch International](https://branch.co/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **apurvanagar@gmail.com**
 
